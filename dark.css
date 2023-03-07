@@ -1,0 +1,93 @@
+.wrapper {
+    background-color: #06090E !important;
+    color: wheat !important;
+}
+
+.navbar {
+    background: #06090E !important;
+    color: wheat !important;
+}
+
+.homepage-wrapper .inner {
+    background-color: #171717 !important;
+    color: wheat !important;
+}
+
+.sidebar-parent-block .sidebar .sidebar-content{
+    background-image:none !important;
+    background-color: #06090E !important;
+    background: #06090E !important;
+    
+}
+
+.homepage-wrapper .header-title-block{
+    color: wheat !important;
+}
+
+.title{
+    color: wheat !important;
+}
+
+.middle-count{
+    color: wheat !important;
+}
+
+.more-info .go-to-details{
+    border-bottom-color: wheat !important;
+    color: wheat !important;
+    border-bottom: 1px solid wheat !important;
+}
+
+.all-count {
+    color: wheat !important;
+}
+
+.diff-count .up {
+    color: wheat !important;
+}
+
+.wrap-counts {
+    background-color: #171717 !important;
+}
+
+.button.malachite {
+    background-color: #171717 !important;
+    color: wheat !important;
+}
+
+a {
+    color: wheat !important;
+}
+
+.content-schedule {
+    background: #06090E !important;
+}
+
+.schedule-section .item .content-schedule .day-holder {
+    background-color: #171717 !important;
+}
+
+.active-day {
+    background: #A6B2EC !important;
+}
+
+.day.has-day {
+    background: #595B82 !important;
+}
+
+.schedule-section .item .content-schedule .week .day {
+    background-color: #171717 !important;
+    color: wheat !important;
+}
+
+.progress-section .item .content-progress {
+    background-color: #171717 !important;
+}
+
+.ng-value-container {
+    background-color: #06090E !important;
+}
+
+.count-holder.items {
+    background-color: #171717 !important;
+}
