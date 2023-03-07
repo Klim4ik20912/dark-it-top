@@ -1,0 +1,26 @@
+{
+    "name": "Dark It-Top",
+    "version": "1.4",
+    "description": "Dark mode for journal it-top by klim4ik20912",
+    "manifest_version": 3,
+
+    "permissions": [
+        "activeTab",
+        "storage"
+      ],
+
+      "icons": {
+        "16": "step_logo_rus.png",
+        "32": "step_logo_rus.png",
+        "48": "step_logo_rus.png",
+        "128": "step_logo_rus.png"
+      },
+    
+    "content_scripts": [
+    {
+    "matches": ["https://journal.top-academy.ru/*"],
+    "css": ["dark.css"],
+    "run_at": "document_end"
+    }
+    ]
+    }
